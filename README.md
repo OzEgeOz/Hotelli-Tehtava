@@ -53,9 +53,9 @@ Tämä ohjelma on C++-ohjelmoinnin perusteet -kurssin harjoitustyö, joka toteut
 
 ## Esimerkki ohjelman käytöstä
 
-1.Ohjelma tervehtii käyttäjää ja kertoo vapaana olevien huoneiden määrän.
+1. Ohjelma tervehtii käyttäjää ja kertoo vapaana olevien huoneiden määrän.
 
-2.Käyttäjä valitsee haluamansa huoneen numeron.
+2. Käyttäjä valitsee haluamansa huoneen numeron.
 
 3. Ohjelma tarkistaa syötteen (onko kelvollinen) ja huoneen saatavuuden.
 
